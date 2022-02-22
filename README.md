@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/gyn17tljm18rnnbu?svg=true)](https://ci.appveyor.com/project/dunaev-k-s/aqa2-hw3)
