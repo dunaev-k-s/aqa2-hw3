@@ -4,7 +4,7 @@ stack: jdk 11  # версия JDK
 
 branches:
   only:
-    - happy-path  # ветка git
+    - testing-form  # ветка git
 
 build: off  # будем использовать свой скрипт сборки
 
